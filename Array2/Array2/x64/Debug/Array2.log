@@ -1,0 +1,12 @@
+﻿  Array2.c
+D:\CProjects\Array2\Array2\Array2.c(70,15): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\CProjects\Array2\Array2\Array2.c(65,7): warning C4101: 'abc' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Array2\Array2\Array2.c(84,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\CProjects\Array2\Array2\Array2.c(84,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+D:\CProjects\Array2\Array2\Array2.c(84,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+D:\CProjects\Array2\Array2\Array2.c(84,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+D:\CProjects\Array2\Array2\Array2.c(87,18): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\CProjects\Array2\Array2\Array2.c(213,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\CProjects\Array2\Array2\Array2.c(213,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
+D:\CProjects\Array2\Array2\Array2.c(215,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+  Array2.vcxproj -> D:\CProjects\Array2\x64\Debug\Array2.exe

@@ -1,0 +1,4 @@
+﻿  CtoC++.cpp
+D:\CProjects\CtoC++\CtoC++\CtoC++.cpp(211,7): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+D:\CProjects\CtoC++\CtoC++\CtoC++.cpp(321,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  CtoC++.vcxproj -> D:\CProjects\CtoC++\x64\Debug\CtoC++.exe

@@ -1,0 +1,6 @@
+﻿  OperatorEx.c
+D:\CProjects\OperatorEx\OperatorEx\OperatorEx.c(114,5): warning C4101: 'num1' :참조되지 않은 지역 변수입니다.
+D:\CProjects\OperatorEx\OperatorEx\OperatorEx.c(115,8): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+D:\CProjects\OperatorEx\OperatorEx\OperatorEx.c(114,11): warning C4101: 'num2' :참조되지 않은 지역 변수입니다.
+D:\CProjects\OperatorEx\OperatorEx\OperatorEx.c(114,17): warning C4101: 'num3' :참조되지 않은 지역 변수입니다.
+  OperatorEx.vcxproj -> D:\CProjects\OperatorEx\x64\Debug\OperatorEx.exe

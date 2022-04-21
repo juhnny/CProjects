@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41347a15-9e40-46be-9eb6-d6b6700c61e1": {
+      "ProjectGuid": "41347a15-9e40-46be-9eb6-d6b6700c61e1",
+      "DisplayName": "Getch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

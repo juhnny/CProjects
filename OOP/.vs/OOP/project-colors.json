@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b65ebf84-79e0-4b50-bceb-3ba0d08b6b9f": {
+      "ProjectGuid": "b65ebf84-79e0-4b50-bceb-3ba0d08b6b9f",
+      "DisplayName": "OOP",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

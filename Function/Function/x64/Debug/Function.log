@@ -1,0 +1,4 @@
+﻿  Function.c
+D:\CProjects\Function\Function\Function.c(67,5): warning C4013: 'aaa'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\CProjects\Function\Function\Function.c(114,1): error C2374: 'c': 재정의. 여러 번 초기화했습니다.
+D:\CProjects\Function\Function\Function.c(113): message : 'c' 선언을 참조하십시오.

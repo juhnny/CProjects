@@ -1,0 +1,10 @@
+﻿  Pointer.c
+D:\CProjects\Pointer\Pointer\Pointer.c(17,9): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\CProjects\Pointer\Pointer\Pointer.c(62,9): warning C4133: '=': 'char *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+D:\CProjects\Pointer\Pointer\Pointer.c(315,18): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\CProjects\Pointer\Pointer\Pointer.c(315,27): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+D:\CProjects\Pointer\Pointer\Pointer.c(318,14): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\CProjects\Pointer\Pointer\Pointer.c(319,14): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\CProjects\Pointer\Pointer\Pointer.c(243): warning C4716: 'returnArr': 값을 반환해야 합니다.
+D:\CProjects\Pointer\Pointer\Pointer.c(249): warning C4716: 'returnP': 값을 반환해야 합니다.
+  Pointer.vcxproj -> D:\CProjects\Pointer\x64\Debug\Pointer.exe

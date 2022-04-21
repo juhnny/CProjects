@@ -1,0 +1,8 @@
+﻿  Operator.c
+D:\CProjects\Operator\Operator\Operator.c(203,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+D:\CProjects\Operator\Operator\Operator.c(206,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Operator.vcxproj -> D:\CProjects\Operator\x64\Release\Operator.exe

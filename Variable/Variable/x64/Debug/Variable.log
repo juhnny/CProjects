@@ -1,0 +1,49 @@
+﻿  Variable.c
+D:\CProjects\Variable\Variable\Variable.c(5,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\CProjects\Variable\Variable\Variable.c(5,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\CProjects\Variable\Variable\Variable.c(5,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\CProjects\Variable\Variable\Variable.c(7,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\CProjects\Variable\Variable\Variable.c(7,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\CProjects\Variable\Variable\Variable.c(7,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\CProjects\Variable\Variable\Variable.c(14,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\CProjects\Variable\Variable\Variable.c(14,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+D:\CProjects\Variable\Variable\Variable.c(14,9): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
+D:\CProjects\Variable\Variable\Variable.c(28,10): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\CProjects\Variable\Variable\Variable.c(74,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(74,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(75,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(75,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(76,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(76,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(77,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(77,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(78,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(78,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(79,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(79,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(80,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(80,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(81,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(81,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(82,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(82,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(83,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Variable.c(83,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Variable.c(106,10): warning C4477: 'scanf_s' : 서식 문자열 '%c'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+D:\CProjects\Variable\Variable\Variable.c(106,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+D:\CProjects\Variable\Variable\Variable.c(106,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\CProjects\Variable\Variable\Variable.c(106,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 2개가 제공되었습니다.
+D:\CProjects\Variable\Variable\Variable.c(106,10): message : 누락된 variadic 인수 3이(가) 서식 문자열 '%c'에 필요합니다.
+D:\CProjects\Variable\Variable\Variable.c(106,10): message : 이 인수는 변환 지정자에서 사용됩니다.
+D:\CProjects\Variable\Variable\Variable.c(69,12): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+D:\CProjects\Variable\Variable\Variable.c(86,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\CProjects\Variable\Variable\Variable.c(61,14): warning C4101: 'vv' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Variable.c(61,6): warning C4101: 'tt' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Variable.c(60,6): warning C4101: 'v' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Variable.c(44,6): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Variable.c(61,10): warning C4101: 'uu' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Variable.c(47,6): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Variable.c(58,6): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Variable.c(59,6): warning C4101: 'u' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Variable.c(63,15): warning C4101: 'bb' :참조되지 않은 지역 변수입니다.
+  Variable.vcxproj -> D:\CProjects\Variable\x64\Debug\Variable.exe

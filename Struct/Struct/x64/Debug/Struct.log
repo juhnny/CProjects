@@ -1,0 +1,5 @@
+﻿  Struct.c
+D:\CProjects\Struct\Struct\Struct.c(206,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\CProjects\Struct\Struct\Struct.c(206,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 3개가 제공되었습니다.
+D:\CProjects\Struct\Struct\Struct.c(206,10): message : 누락된 variadic 인수 4이(가) 서식 문자열 '%s'에 필요합니다.
+  Struct.vcxproj -> D:\CProjects\Struct\x64\Debug\Struct.exe

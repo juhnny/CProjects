@@ -1,0 +1,8 @@
+﻿  ArrayEx.c
+D:\CProjects\ArrayEx\ArrayEx\ArrayEx.c(105,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\CProjects\ArrayEx\ArrayEx\ArrayEx.c(105,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+D:\CProjects\ArrayEx\ArrayEx\ArrayEx.c(105,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+D:\CProjects\ArrayEx\ArrayEx\ArrayEx.c(105,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+D:\CProjects\ArrayEx\ArrayEx\ArrayEx.c(112,17): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\CProjects\ArrayEx\ArrayEx\ArrayEx.c(120,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  ArrayEx.vcxproj -> D:\CProjects\ArrayEx\x64\Debug\ArrayEx.exe
